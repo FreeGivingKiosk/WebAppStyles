@@ -1,0 +1,92 @@
+.c-bg-blue {
+    background-color: #a4a4a4;
+}
+
+.c-blue-dark {
+    color: #5b5b5b;
+}
+
+.c-bg-blue-dark {
+    background-color: #323232;
+}
+
+div .events-header {
+    background: linear-gradient(0.25turn, #184153, #6b9f43, #e07707) !important;
+}
+
+button.btn.btn-blue-dark.sz-button-secondary {
+	background-color: #464a4c;
+}
+
+.border-blue {
+    border: 0.1rem solid #464a4c !important;
+}
+
+.btn-white {
+    background-color: white;
+    color: #464a4c;
+}
+
+.btn-choose-fund-inactive[_ngcontent-c14] {
+    background-color: #ddd;
+    color: #464a4c;
+}
+
+.btn-choose-fund-inactive[_ngcontent-c14] {
+    background-color: #ddd;
+    color: #464a4c;
+}
+
+.btn-primary.active, .btn-primary:active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #00a013;
+    background-image: none;
+    border-color: #01549b;
+}
+
+.btn-choose-fund[_ngcontent-c14] {
+    width: 100%;
+    text-align: left;
+    color: #464a4c;
+    border-radius: 3px 3px 3px 3px;
+}
+
+element.style {
+    background-color: #DDDDDD;
+    color: #464a4c;
+}
+
+//options for recurring frequency//
+div.ml-2.btn.btn-blue.sz-button-secondary {
+	Background-color: #929292
+}
+
+//drop down card save colors on payment page//
+body .ui-dropdown .ui-dropdown-label {
+    background: #ffffff;
+    color: #464a4c;
+}
+
+.btn-blue {
+    background-color: #757a7c;
+}
+
+btn-choose-fund[_ngcontent-c14] {
+    width: 100%;
+    text-align: left;
+    color: #464a4c;
+    border-radius: 3px 3px 3px 3px;
+}
+
+#sidebar[_ngcontent-c1] {
+    width: 20rem;
+    top: 5rem;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    z-index: 999;
+    background: #757a7c;
+    transition: all .3s;
+    box-shadow: .2rem .2rem .2rem .2rem rgba(0, 0, 0, .4);
+    display: block;
+}
