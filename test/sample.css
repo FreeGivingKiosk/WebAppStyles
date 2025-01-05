@@ -65,6 +65,7 @@ table {
     border-color: #700fa4 !important;
 }
 
+body .ui-paginator .ui-paginator-pages .ui-paginator-page:hover.ui-state-active,
 .btn-primary.active, 
 .btn-primary:active, 
 .show>.btn-primary.dropdown-toggle {
