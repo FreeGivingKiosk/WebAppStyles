@@ -56,12 +56,12 @@ element.style {
     color: #464a4c;
 }
 
-//options for recurring frequency//
+/* options for recurring frequency */
 div.ml-2.btn.btn-blue.sz-button-secondary {
 	Background-color: #929292
 }
 
-//drop down card save colors on payment page//
+/* //drop down card save colors on payment page// */
 body .ui-dropdown .ui-dropdown-label {
     background: #ffffff;
     color: #464a4c;

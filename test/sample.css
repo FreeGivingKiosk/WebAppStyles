@@ -1,0 +1,15 @@
+.c-bg-blue {
+    background-color: #a4a4a4;
+}
+
+.c-blue-dark {
+    color: #5b5b5b;
+}
+
+.c-bg-blue-dark {
+    background-color: #323232;
+}
+
+div .events-header {
+    background: linear-gradient(0.25turn, #184153, #6b9f43, #e07707) !important;
+}
