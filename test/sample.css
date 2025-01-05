@@ -1,5 +1,6 @@
 .c-bg-blue {
-    background-color: #a4a4a4;
+    background-color: #700fa4;
+    opacity: 0.75;
 }
 
 .c-blue-dark {
@@ -9,7 +10,66 @@
 .c-bg-blue-dark {
     background-color: #323232;
 }
+.btn-white {
+    color: #700fa4;
+}
 
+.border-blue{
+    border-color: #700fa4 !important;
+}
+
+/*MENU */
+#sidebar { 
+  background: linear-gradient(0turn, #000, #700fa4) !important;
+}
+
+/* EVENTS */
 div .events-header {
-    background: linear-gradient(0.25turn, #184153, #6b9f43, #e07707) !important;
+    background: linear-gradient(0.75turn, #000, #700fa4) !important;
+}
+.btn-blue,
+.btn-primary,
+body .ui-state-active,
+.btn-blue-dark {
+    background-color: #700fa4;
+}
+
+.btn-primary:hover {
+    background-color: #951dd6;
+}
+.custom-control-input:checked~.custom-control-indicator,
+.ui-datepicker .ui-datepicker-calendar td:not(.ui-state-disabled) a.ui-state-active,
+div.calendar-header-first {
+    background-color: #700fa4 !important;
+}
+body .ui-dropdown .ui-dropdown-label,
+.btn-choose-fund-inactive,
+.btn-choose-fund,
+body .ui-paginator .ui-paginator-first,
+body .ui-paginator .ui-paginator-prev,
+body .ui-paginator .ui-paginator-next,
+body .ui-paginator .ui-paginator-last,
+.c-blue,
+.calendar-day .first,
+.ui-calendar input,
+div.table div.table-cell .first {
+    color: #700fa4 !important;
+}
+
+/* GRIDS */
+thead th {
+    color: #fff !important;
+    background: linear-gradient(0turn, #000, #700fa4);
+}
+table {
+    border-color: #700fa4 !important;
+}
+
+.btn-primary.active, 
+.btn-primary:active, 
+.show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #700fa4;
+    background-image: none;
+    border-color: #360152;
 }
