@@ -78,3 +78,10 @@ body .ui-paginator .ui-paginator-pages .ui-paginator-page:hover.ui-state-active,
 body .ui-dropdown-panel .ui-dropdown-items .ui-dropdown-item.ui-state-highlight {
     background-color: #700fa4;
 }
+
+span.donation-amount{
+    display: none;
+}
+span.donation-amount-content:after{
+    content: "Purchase Amount";
+}

@@ -1,0 +1,162 @@
+/*Donation Amount background*/
+.c-bg-blue {
+    background-color: #4d5a51;
+}
+
+.btn-choose-fund-inactive {
+    color: #768179 !important;
+}
+
+.btn-choose-fund {
+    color: #768176 !important;
+}
+
+/*
+/*Top Text Color*/
+.c-blue-dark {
+    color: #343232;
+}
+
+.c-bg-blue-dark {
+    background-color: #69786d;
+}
+
+/*Once singed in hamburger button once clicked color*/
+.btn-blue-dark {
+    background-color: #474b4a;
+
+}
+
+/*Event Page Header*/
+div .events-header {
+    background: linear-gradient(0.25turn, #184153ff, #2d3630, #e07707ff) !important;
+    background-image: url('https://static.wixstatic.com/media/a55b65_c7b9f083d25d4b61a6a5f26e93d186e6~mv2.png/v1/fill/w_1186,h_114,al_c,lg_1,q_85,enc_avif,quality_auto/modern%20church%20worship%20banner.png') !important;
+}
+
+/*Event Page Background
+div .container-fluid	{
+	background-image: url('https://media.istockphoto.com/id/841506898/photo/enjoying-great-concert.jpg?s=612x612&w=0&k=20&c=Xp3jzTqDk9XbD5WV26tKNaig_ql2v-tafXGiMnUsJ-o=') !important;
+}*/
+
+/*Event Page Grid Background*/
+.ui-widget-content {
+    background-color: transparent !important;
+}
+
+/*Home Screen - Next Button*/
+button.btn.btn-blue-dark.sz-button-secondary {
+    background-color: #39403b
+}
+
+.border-blue {
+    border: 0.1rem solid #302e2e !important;
+}
+
+.btn-white {
+    background-color: white;
+    color: #272626;
+}
+
+.btn-choose-fund-inactive[_ngcontent-c14] {
+    background-color: #ddd;
+    color: #464a4c;
+}
+
+.btn-choose-fund-inactive[_ngcontent-c14] {
+    background-color: #ddd;
+    color: #414745;
+}
+
+.btn-primary.active,
+.btn-primary:active,
+.show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #566159;
+    background-image: none;
+    border-color: #2f3532;
+}
+
+.btn-choose-fund[_ngcontent-c14] {
+    width: 100%;
+    text-align: left;
+    color: #252626;
+    border-radius: 3px 3px 3px 3px;
+}
+
+element.style {
+    background-color: #DDDDDD;
+    color: #464a4c;
+}
+
+/*options for recurring frequency*/
+div.ml-2.btn.btn-blue.sz-button-secondary {
+    Background-color: #929292
+}
+
+/*drop down card save colors on payment page*/
+body .ui-dropdown .ui-dropdown-label {
+    background: #ffffff;
+    color: #464a4c;
+}
+
+:root {
+    --main-color-blue: #757a7c;
+    --main-color-blue-dark: #464a4c;
+    --main-color-green: #28a94f;
+    --main-color-gray: #939393;
+}
+
+element.style {
+    height: 2.5rem;
+    font-size: 1rem;
+    width: 100%;
+    color: #757a7c;
+    border-radius: 0px;
+    border-style: none;
+}
+
+
+.btn-blue {
+    background-color: #757a7c;
+}
+
+btn-choose-fund[_ngcontent-c14] {
+    width: 100%;
+    text-align: left;
+    color: #303432;
+    border-radius: 3px 3px 3px 3px;
+}
+
+
+/*SideBar Menu background color*/
+#sidebar[_ngcontent-c1] {
+    width: 20rem;
+    top: 5rem;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    z-index: 999;
+    background: #868686;
+    transition: all .3s;
+    box-shadow: .2rem .2rem .2rem .2rem rgba(0, 0, 0, .4);
+    display: block;
+}
+
+/*Add Family Member page, Add Family Member button color*/
+.btn-blue-dark {
+    background-color: #868686;
+}
+
+/*NOT WORKING Add Family Member table header color*/
+thead[_ngcontent*]>tr[_ngcontent*] {
+    color: #fff;
+    background-color: #5f5f5f;
+    font-size: 1rem;
+}
+
+span.donation-amount{
+    display: none;
+}
+span.donation-amount-content:after{
+    content: "Purchase Amount";
+}
