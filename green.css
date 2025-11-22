@@ -27,7 +27,6 @@ p {
 /*Once singed in hamburger button once clicked color*/
 .btn-blue-dark {
     background-color: #474b4a;
-
 }
 
 /*Event Page Header*/
@@ -96,14 +95,6 @@ body .ui-dropdown .ui-dropdown-label {
 .btn-blue {
     background-color: #6aa35b;
 }
-
-btn-choose-fund[_ngcontent-c14] {
-    width: 100%;
-    text-align: left;
-    color: #303432;
-    border-radius: 3px 3px 3px 3px;
-}
-
 
 /*SideBar Menu background color*/
 #sidebar {
