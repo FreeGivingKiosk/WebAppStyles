@@ -1,0 +1,116 @@
+/*Donation Amount background*/
+.c-bg-blue {
+    background-color: #6aa35b;
+}
+
+.btn-choose-fund-inactive {
+    color: #768179 !important;
+}
+
+p {
+    color: white;
+}
+
+.btn-choose-fund {
+    color: #768176 !important;
+}
+
+/*Top Text Color*/
+.c-blue-dark {
+    color: #343232;
+}
+
+.c-bg-blue-dark {
+    background-color: #6aa35b;
+}
+
+/*Once singed in hamburger button once clicked color*/
+.btn-blue-dark {
+    background-color: #474b4a;
+
+}
+
+/*Event Page Header*/
+div .events-header {
+    background-image: url('https://static.wixstatic.com/media/a55b65_c7b9f083d25d4b61a6a5f26e93d186e6~mv2.png/v1/fill/w_1186,h_114,al_c,lg_1,q_85,enc_avif,quality_auto/modern%20church%20worship%20banner.png') !important;
+    background-position:center !important;
+    background-repeat: no-repeat !important;
+}
+
+/*Event Page Grid Background*/
+.ui-widget-content {
+    background-color: transparent !important;
+}
+
+/*Home Screen - Next Button*/
+button.btn.btn-blue-dark.sz-button-secondary {
+    background-color: #6aa35b
+}
+
+.border-blue {
+    border: 0.1rem solid #302e2e !important;
+}
+
+.btn-white {
+    background-color: white;
+    color: #272626;
+}
+
+/* Fund Selection Buttons */
+.btn-choose-fund {
+    color: #252626 !important;
+}
+.btn-choose-fund.selected-fund {
+    color: #023437 !important;
+    background-color: #dafbdf !important;
+}
+
+.btn-primary.active,
+.btn-primary:active,
+.show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #566159;
+    background-image: none;
+    border-color: #2f3532;
+}
+
+
+/*options for recurring frequency*/
+div.ml-2.btn.btn-blue.sz-button-secondary {
+    Background-color: #929292
+}
+
+/*drop down card save colors on payment page*/
+body .ui-dropdown .ui-dropdown-label {
+    background: #ffffff;
+    color: #464a4c;
+}
+
+:root {
+    --main-color-blue: #757a7c;
+    --main-color-blue-dark: #464a4c;
+    --main-color-green: #28a94f;
+    --main-color-gray: #939393;
+}
+
+.btn-blue {
+    background-color: #6aa35b;
+}
+
+btn-choose-fund[_ngcontent-c14] {
+    width: 100%;
+    text-align: left;
+    color: #303432;
+    border-radius: 3px 3px 3px 3px;
+}
+
+
+/*SideBar Menu background color*/
+#sidebar {
+    background: #868686 !important;
+}
+
+/*Add Family Member page, Add Family Member button color*/
+.btn-blue-dark {
+    background-color: #868686;
+}
